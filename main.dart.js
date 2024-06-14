@@ -57619,7 +57619,7 @@ s=this.b
 return s*(B.d.ha(a-1,this.a)+1)-(s-this.d)}}
 A.a66.prototype={}
 A.a67.prototype={
-DR(a){var s=a.w,r=Math.max(1,B.c.cd(s/202)),q=Math.max(0,s-2*(r-1))/r,p=q/6
+DR(a){var s=a.w,r=Math.max(1,B.c.cd(s/232)),q=Math.max(0,s-2*(r-1))/r,p=q/6
 return new A.a6a(r,p+2,q+2,p,q,A.BT(a.x))}}
 A.qv.prototype={
 k(a){return"crossAxisOffset="+A.h(this.w)+"; "+this.T9(0)}}
